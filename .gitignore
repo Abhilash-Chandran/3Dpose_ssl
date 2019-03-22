@@ -59,3 +59,5 @@ venv.bak/
 caffe-3dssl/cmake/
 data/
 
+#VS Code
+.vscode
